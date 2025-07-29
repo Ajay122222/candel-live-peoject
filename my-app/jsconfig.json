@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src",
+    "paths": {
+      "@/*": ["*"]
+    }
+  }
+}
+
+
+// module.exports = {
+//   theme: {
+//     extend: {
+//       fontFamily: {
+//         beautiella: ['Beautiella', 'cursive'],
+//       },
+//     },
+//   },
+// };
+
+
+// {
+//   "compilerOptions": {
+//     "baseUrl": "src",
+//     "paths": {
+//       "@/*": ["*"]
+//     }
+//   }
+// }
